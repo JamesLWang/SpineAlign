@@ -1,6 +1,10 @@
 # SpineAlign
 
-SpineAligns aims to diagnosis scoliosis through using gyroscopic data and computer vision systems. This effectively reduces the cost of diagnosing scoliosis and exponentially increases its accessibility. 
+SpineAligns aims to diagnosis scoliosis through using gyroscopic data and computer vision systems on iOS devices. This effectively reduces the cost of diagnosing scoliosis and exponentially increases its accessibility. Specifically, this application uses curve detection and shoulder imaging to determine a patient's degree of scoliosis. 
+
+Curve detection uses real-time gyroscopic data on an iOS device while it is run along a patient's spine. As the device is run through the patient's spine, concavities caused by scoliosis are detected as an unleved surface on the y-axis. 
+
+Shoulder imaging uses the OpenCV library to pre-process photos of patients' shoulders for analysis of imbalance. Imbalance is detected through detecting points on the shoulders equidistant from the patient's 
 
 ## Installation
 
