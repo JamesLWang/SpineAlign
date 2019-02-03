@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="667px" height="347px" viewBox="0 0 667 347" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.47046604%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS" transform="translate(0.000000, -28.000000)">
+            <g id="Group" transform="translate(0.000000, 28.000000)">
+                <rect id="Rectangle" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="666" height="346"></rect>
+                <text id="Scanning…" fill="#FFFFFF" font-family="Avenir-Book, Avenir" font-size="55" font-weight="normal">
+                    <tspan x="213" y="176">Scanning… </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="483px" viewBox="0 0 375 483" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.66943642%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.47046604%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.6219598%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#7D7D7D" offset="50.8177262%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS" transform="translate(0.000000, -28.000000)">
+            <g id="Group" transform="translate(0.000000, 28.000000)">
+                <rect id="Rectangle" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="374" height="101"></rect>
+                <text id="Results" font-family="Avenir-Book, Avenir" font-size="40" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="9" y="90">Results</tspan>
+                </text>
+                <text id="Mild-Scoliosis" fill="url(#linearGradient-3)" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal">
+                    <tspan x="12" y="152">Mild Scoliosis</tspan>
+                </text>
+                <text id="You-have-been-diagno" fill="#000000" font-family="Avenir-Book, Avenir" font-size="15" font-weight="normal" line-spacing="21">
+                    <tspan x="18" y="182">You have been diagnosed with </tspan>
+                    <tspan x="227.79" y="182" font-family="Avenir-Heavy, Avenir" font-weight="600">mild</tspan>
+                    <tspan x="258.09" y="182"> </tspan>
+                    <tspan x="262.26" y="182" font-family="Avenir-Heavy, Avenir" font-weight="600">scoliosis</tspan>
+                    <tspan x="319.485" y="182">, as </tspan>
+                    <tspan x="18" y="203">the curvature of your spine is between 7 and 20 </tspan>
+                    <tspan x="18" y="224">degrees.</tspan>
+                    <tspan x="18" y="245"></tspan>
+                    <tspan x="18" y="266">While you may not require immediate treatment, </tspan>
+                    <tspan x="18" y="287">you should consult a doctor soon to learn about </tspan>
+                    <tspan x="18" y="308">the possible effects that this condition may have </tspan>
+                    <tspan x="18" y="329">on your health. The use of X-rays or the ScoliScore </tspan>
+                    <tspan x="18" y="350">Test would enable you to determine the likelihood </tspan>
+                    <tspan x="18" y="371">of progression.</tspan>
+                </text>
+                <text id="We-highly-recommend" fill="#000000" font-family="Avenir-Book, Avenir" font-size="15" font-weight="normal">
+                    <tspan x="16" y="422">We highly recommend that you perform a spinal </tspan>
+                    <tspan x="16" y="442">check-up </tspan>
+                    <tspan x="81.04" y="442" font-family="Avenir-Heavy, Avenir" font-weight="600">every six months</tspan>
+                    <tspan x="199.09" y="442"> to ensure a healthy </tspan>
+                    <tspan x="16" y="462">lifestyle. To return to the homepage, press the </tspan>
+                    <tspan x="16" y="482">button below.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

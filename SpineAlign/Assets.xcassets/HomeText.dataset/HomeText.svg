@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="466px" viewBox="0 0 326 466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Avenir-Book, Avenir" font-weight="normal">
+        <g id="Group-2" transform="translate(0.000000, -6.000000)">
+            <text id="What-is-Scoliosis?" fill="url(#linearGradient-1)" font-size="28">
+                <tspan x="58" y="28">What is Scoliosis?</tspan>
+            </text>
+            <text id="Scoliosis-is-a-condi" fill="#000000" font-size="18" line-spacing="27">
+                <tspan x="0" y="65">Scoliosis is a condition characterized by </tspan>
+                <tspan x="0" y="92">an abnormal horizontal curvature of the </tspan>
+                <tspan x="0" y="119">spine. Although it affects 6 to 9 million </tspan>
+                <tspan x="0" y="146">people in the U.S., only 600,000 </tspan>
+                <tspan x="0" y="173">individuals receive an annual checkup. </tspan>
+                <tspan x="0" y="200">Moreover, diagnosis of scoliosis is often </tspan>
+                <tspan x="0" y="227">far and expensive, making it inaccessible </tspan>
+                <tspan x="0" y="254">to many patients.</tspan>
+                <tspan x="0" y="281"></tspan>
+                <tspan x="0" y="308">SpineAlign is designed to help users </tspan>
+                <tspan x="0" y="335">identify whether they are at risk for </tspan>
+                <tspan x="0" y="362">scoliosis without needing to face such </tspan>
+                <tspan x="0" y="389">economic costs.</tspan>
+                <tspan x="0" y="416"></tspan>
+                <tspan x="0" y="443">To begin the process, please press the </tspan>
+                <tspan x="0" y="470">button below.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

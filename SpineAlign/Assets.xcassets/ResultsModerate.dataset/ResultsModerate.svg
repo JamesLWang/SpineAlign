@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="483px" viewBox="0 0 375 483" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.66943642%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.47046604%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.6219598%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#20378E" offset="0%"></stop>
+            <stop stop-color="#7D7D7D" offset="50.8177262%"></stop>
+            <stop stop-color="#58D7ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS" transform="translate(0.000000, -28.000000)">
+            <g id="Group" transform="translate(0.000000, 28.000000)">
+                <rect id="Rectangle" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="374" height="101"></rect>
+                <text id="Results" font-family="Avenir-Book, Avenir" font-size="40" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="9" y="90">Results</tspan>
+                </text>
+                <text id="Moderate-Scoliosis" fill="url(#linearGradient-3)" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal">
+                    <tspan x="12" y="152">Moderate Scoliosis</tspan>
+                </text>
+                <text id="You-have-been-diagno" fill="#000000" font-family="Avenir-Book, Avenir" font-size="15" font-weight="normal">
+                    <tspan x="18" y="182">You have been diagnosed with </tspan>
+                    <tspan x="227.79" y="182" font-family="Avenir-Heavy, Avenir" font-weight="600">moderate</tspan>
+                    <tspan x="296.385" y="182"> </tspan>
+                    <tspan x="18" y="202" font-family="Avenir-Heavy, Avenir" font-weight="600">scoliosis</tspan>
+                    <tspan x="75.225" y="202">, as the curvature of your spine is between </tspan>
+                    <tspan x="18" y="222">20 and 40 degrees.</tspan>
+                    <tspan x="18" y="242"></tspan>
+                    <tspan x="18" y="262">If you are under 21 years of age, bracing may </tspan>
+                    <tspan x="18" y="282">provide effective treatment since it will reduce the </tspan>
+                    <tspan x="18" y="302">likelihood of future surgical requirements. </tspan>
+                    <tspan x="18" y="322"></tspan>
+                    <tspan x="18" y="342">Moderate scoliosis typically has a 68% chance of </tspan>
+                    <tspan x="18" y="362">progression. Thus, you should meet a medical </tspan>
+                    <tspan x="18" y="382">professional as soon as possible.   </tspan>
+                    <tspan x="18" y="402"></tspan>
+                    <tspan x="18" y="422"></tspan>
+                </text>
+                <text id="We-highly-recommend" fill="#000000" font-family="Avenir-Book, Avenir" font-size="15" font-weight="normal">
+                    <tspan x="16" y="422">We highly recommend that you perform a spinal </tspan>
+                    <tspan x="16" y="442">check-up </tspan>
+                    <tspan x="81.04" y="442" font-family="Avenir-Heavy, Avenir" font-weight="600">every six months</tspan>
+                    <tspan x="199.09" y="442"> to ensure a healthy </tspan>
+                    <tspan x="16" y="462">lifestyle. To return to the homepage, press the </tspan>
+                    <tspan x="16" y="482">button below.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
