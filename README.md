@@ -19,13 +19,13 @@ To build this application, the opencv.framework file must be imported into the w
 
 
 ## Credits
-Created by Luvena Huo, Havi Nguyen, Annie Sui, and James Wang at DevFest 2019. 
+Created by Havi Nguyen, James Wang, Luvena Huo, Annie Sui at DevFest 2019. 
 Columbia University in the City of New York
 
 ## License
 The MIT License
 
-Copyright (c) 2019 Luvena Huo, Havi Nguyen, Annie Sui, James Wang
+Copyright (c) 2019 Havi Nguyen, James Wang, Luvena Huo, Annie Sui 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
